@@ -1,0 +1,26 @@
+.{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.bg-dark{
+    
+    background-color:#a9aeb8;
+    background-image: url("car.jpg");
+    background-repeat: no-repeat;  
+    background-size: cover;
+    
+}
+.mt-50{
+    margin-top: 50px;
+}
+.card-body{
+    
+    background-repeat: no-repeat;
+    background-image: url("Untitled design.png");  
+    background-size: cover;
+    
+
+  }
+  
