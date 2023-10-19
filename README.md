@@ -1,4 +1,8 @@
 # Car-Price-Predictor
+
+![1](https://github.com/Fataahullah/Car-Price-Predictor/assets/70217922/60c4b52c-3066-442f-b00f-0b1ff22b415d)
+
+
 <h3>Table of Contents</h3>
 <ul><li>About the Project</li>
 <li>Getting Started</li>
