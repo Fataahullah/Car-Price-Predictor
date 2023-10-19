@@ -7,8 +7,6 @@
 <ul><li>About the Project</li>
 <li>Getting Started</li>
 <li>Prerequisites</li>
-<li>Installation</li>
-<li>Usage</li>
 <li>Model Overview</li>
 <li>Dataset</li>
 <li>Results</li>
@@ -29,3 +27,4 @@ The Car Price Predictor is a machine learning project that predicts the price of
   <li>numpy</li>
   <li>sklearn</li>
   <li>flask</li></ul></li></ul>
+# Model Overview
